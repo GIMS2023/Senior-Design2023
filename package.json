@@ -1,0 +1,38 @@
+{
+  "name": "general-inventory-management",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.13.7",
+    "@mui/material": "^5.13.1",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.31",
+    "@types/react-dom": "18.0.11",
+    "bcrypt": "^5.1.0",
+    "classnames": "^2.3.2",
+    "cookie": "^0.5.0",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "jsonwebtoken": "^9.0.0",
+    "jspdf": "^2.5.1",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3",
+    "mongoose-field-encryption": "6.1.0",
+    "multer": "^1.4.5-lts.1",
+    "next": "13.2.4",
+    "nodemailer": "^6.9.1",
+    "nookies": "^2.5.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.0.2"
+  }
+}
